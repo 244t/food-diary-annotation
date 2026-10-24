@@ -10,4 +10,6 @@ We study dish-level automatic annotation of real food-diary photos using a multi
 
 ## Release status
 
-**The public release is in preparation.**
+- Dish splitting model: [Hugging Face](https://huggingface.co/nishishita/food-diary-dish-splitter)
+- Single/multi-dish classifier: [Hugging Face](https://huggingface.co/nishishita/food-diary-single-multi-classifier)
+- Dish-name classification demo: in preparation.
