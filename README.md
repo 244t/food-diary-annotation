@@ -1,6 +1,6 @@
 # Automating Dish-Level Annotation of Real Food-Diary Photos
 
-Project repository for our paper accepted at **MADiMa 2026 (ACCV Workshop)**.
+Project repository for our paper accepted at **[MADiMa 2026](https://madima.org/) (ACCV Workshop)**.
 
 **Authors:** Kyosuke Nishishita, Sosuke Amano, Kiyoharu Aizawa, and Yoko Yamakata.
 
