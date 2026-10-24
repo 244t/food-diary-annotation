@@ -1,0 +1,4 @@
+{
+  "synthetic_dish": {"candidates": [{"name": "example dish (variant B)", "score": 0.8}, {"name": "example dish (variant A)", "score": 0.1}], "none_probability": 0.1},
+  "synthetic_no_match": {"candidates": [], "none_probability": 1.0}
+}

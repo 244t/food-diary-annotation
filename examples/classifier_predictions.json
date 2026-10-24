@@ -1,0 +1,4 @@
+{
+  "synthetic_a": {"candidates": [{"name": "class_001", "score": 0.8}, {"name": "class_002", "score": 0.2}]},
+  "synthetic_b": {"candidates": [{"name": "class_001", "score": 0.7}, {"name": "class_002", "score": 0.3}]}
+}

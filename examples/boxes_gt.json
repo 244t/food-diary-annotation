@@ -1,0 +1,4 @@
+{
+  "synthetic_single": {"w": 100, "h": 100, "stratum": "single", "boxes": [[10, 10, 40, 40]]},
+  "synthetic_multi": {"w": 100, "h": 100, "stratum": "multi", "boxes": [[0, 0, 40, 40], [60, 60, 100, 100]]}
+}
